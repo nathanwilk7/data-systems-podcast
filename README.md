@@ -1,1 +1,3 @@
-# Data Systems Podcast
+The Data Systems Podcast covers topics in research, open-source, and industry systems for data storage, retrieval, and processing. The intended audience should be familiar with common ideas in databases and distributed systems. Some typical examples of listeners are university students exploring research areas or seeking breadth across the data systems field, industry professionals building data systems, and users of data systems who would like to better understand their implementation and internals.
+
+TODO Links to watch/listen podcast (youtube, apple podcasts, spotify, google podcasts, sticher, etc), all episodes/notes (organized by time, but searchable by tag/topic/person/etc, Roadmap (future episodes w/ voting), Sponsors, About, Subscribe
